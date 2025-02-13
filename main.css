@@ -6,7 +6,7 @@ html, body {
     box-sizing: border-box;
     font-size: 100%;
     font-family: "Barlow Condensed", serif, Arial, Helvetica, sans-serif;
-    cursor: url("./assets/cursor.png") default;
+    cursor: url(../assets/cursor.png), auto;
 }
 
 *,
